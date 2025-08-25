@@ -434,6 +434,10 @@ export default {
                 value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
               },
               {
+                label: "ACL_Kisoul",
+                value: "https://raw.githubusercontent.com/Kisoul/Rulers/refs/heads/main/Kisoul.ini"
+              },
+              {
                 label: "ACL_无测速版",
                 value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoAuto.ini"
               },
@@ -1310,3 +1314,4 @@ export default {
   }
 };
 </script>
+
